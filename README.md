@@ -2,8 +2,6 @@
 
 Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na universidade Facens, faço parte da equipe de robótica Omegabotz na parte de eletrônica e sou voluntario na Liquid Galaxy. Amo o mundo da programação e da eletrônica.
 
-<iframe src="https://skyline.github.com/JulioManoel/2021" frameborder="0"></iframe>
-
 <div align="center">
   <a href="https://github.com/JulioManoel">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulioManoel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
