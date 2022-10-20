@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Julio Manoel
 
-Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na universidade Facens, faço parte da equipe de robótica Omegabotz na parte de eletrônica e sou voluntario na Liquid Galaxy. Amo o mundo da programação e da eletrônica.
+Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na universidade Facens, faço parte da equipe de robótica Omegabotz na categoria de eletrônica e realico Iniciação Tecnologica para o CNPq atráves do Liquid Galaxy. Sou facinado pelo mundo da programação e da eletrônica.
 
 <div align="center">
   <a href="https://github.com/JulioManoel">
@@ -14,7 +14,7 @@ Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na un
   <img align="center" alt="Julio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Julio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Julio-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Julio-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="right" height="150" style="border-radius:50px;" src="https://enotas.com.br/blog/wp-content/uploads/2021/02/linguagem-de-programa%C3%A7%C3%A3o.jpg">
 </div>
   
