@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Julio Manoel
 
-Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na universidade Facens, faço parte da equipe de robótica Omegabotz na categoria de eletrônica e realico Iniciação Tecnologica para o CNPq atráves do Liquid Galaxy. Sou facinado pelo mundo da programação e da eletrônica.
+Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na universidade Facens, faço parte da equipe de robótica Omegabotz na categoria de eletrônica e realizo Iniciação Tecnológica para o CNPq através do Liquid Galaxy. Sou fascinado pelo mundo da programação e da eletrônica.
 
 <div align="center">
   <a href="https://github.com/JulioManoel">
