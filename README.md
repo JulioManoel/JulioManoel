@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Julio Manoel
 
-Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na universidade Facens, faço parte da equipe de robótica Omegabotz na categoria de eletrônica e realizo Iniciação Tecnológica para o CNPq através do Liquid Galaxy. Sou fascinado pelo mundo da programação e da eletrônica.
+Tenho 19 anos, estou cursando o 5° semestre de Engenharia da Computação na universidade Facens, faço parte da equipe de robótica Omegabotz na categoria de eletrônica e realizo Iniciação Tecnológica para o CNPq através do Liquid Galaxy. Sou fascinado pelo mundo da programação.
 
 <div align="center">
   <a href="https://github.com/JulioManoel">
@@ -12,16 +12,13 @@ Tenho 19 anos, estou cursando o 4° semestre de Engenharia da Computação na un
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Julio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Julio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Julio-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" height="150" style="border-radius:50px;" src="https://enotas.com.br/blog/wp-content/uploads/2021/02/linguagem-de-programa%C3%A7%C3%A3o.jpg">
 </div>
   
   ##
  
 <div>
-  <a href="https://www.instagram.com/juliocesarbonow/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/julio.manoel.58" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliobonow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-manoel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
