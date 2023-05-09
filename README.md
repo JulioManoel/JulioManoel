@@ -2,16 +2,16 @@
 
 
 
-### About me
+## About me
 
-<img align="right" src="https://i.gifer.com/XOsX.gif" width="75" style="margin-left:20px">
+<img align="right" src="https://i.gifer.com/XOsX.gif" width="75">
 
 <p align="justify">Olá, meu nome é Julio, tenho 19 anos e atualmente estou cursando o 5° semestre de Engenharia da Computação. Busco por oportunidades desafiadoras para aplicar minhas habilidades e crescer no mercado profissional.</p>
 
 <p align="justify">
 Sou apaixonado por tecnologia e tenho como objetivo me tornar um desenvolvedor sênior. Atualmente, estou me aprimorando no desenvolvimento web, concentrando meus esforços em dominar as ferramentas e frameworks do ecossistema JavaScript, tais como Electron, Angular, Node.js, Three.js, entre outras. No entanto, como desenvolvedor, entendo que é fundamental saber resolver problemas da melhor maneira possível, independentemente da tecnologia.</p>
 
-### Programming Language
+## Programming Language
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="50"/>
@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia e tenho como objetivo me tornar um desenvolvedor s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" width="50"/>
 </div>
 
-### Techs and Frameworks
+## Techs and Frameworks
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="50"/>
@@ -32,13 +32,13 @@ Sou apaixonado por tecnologia e tenho como objetivo me tornar um desenvolvedor s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" width="50"/>
 </div>
 
-### Databases
+## Databases
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="50"/>
 </div>
 
-### Tools
+## Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="50"/>
