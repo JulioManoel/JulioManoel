@@ -3,10 +3,10 @@
 ## About me
 <img src="./pato.gif" align="right" width="100">
 
-<p align="justify">Olá, meu nome é Julio, tenho 19 anos e atualmente estou cursando o 5° semestre de Engenharia da Computação. Busco por oportunidades desafiadoras para aplicar minhas habilidades e crescer no mercado profissional.</p>
+<p align="justify">Hello, my name is Julio, I'm 19 years old and I'm currently studying the 5th semester of Computer Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
 
 <p align="justify">
-Sou apaixonado por tecnologia e tenho como objetivo me tornar um desenvolvedor sênior. Atualmente, estou me aprimorando no desenvolvimento web, concentrando meus esforços em dominar as ferramentas e frameworks do ecossistema JavaScript, tais como Electron, Angular, Node.js, Three.js, entre outras. No entanto, como desenvolvedor, entendo que é fundamental saber resolver problemas da melhor maneira possível, independentemente da tecnologia.</p>
+I am passionate about technology and my goal is to become a senior developer. Currently, I'm improving myself in web development, focusing my efforts on mastering the tools and frameworks of the JavaScript ecosystem, such as Electron, Angular, Node.js, Three.js, among others. However, as a developer, I understand that it is essential to know how to solve problems in the best possible way, regardless of technology.</p>
 
 ## Programming Language
 <div>
