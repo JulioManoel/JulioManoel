@@ -52,7 +52,7 @@ Sou apaixonado por tecnologia e tenho como objetivo me tornar um desenvolvedor s
 </div>
   
 ### Contacts
-<img src="https://i.pinimg.com/originals/66/89/dc/6689dc331be27e66349ce9a4d15ddff3.gif" align="right" width="100">
+<img src="./pikachu.gif" align="right" width="100">
 <div>
   <a href = "mailto:juliobonow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-manoel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
