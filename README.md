@@ -1,10 +1,7 @@
-<h2 align="center">Olá! Eu sou o Julio Manoel</h2>
-
-
+<h1 align="center">Olá! Eu sou o Julio Manoel</h1>
 
 ## About me
-
-<img align="right" src="https://i.gifer.com/XOsX.gif" width="75">
+<img src="https://i.gifer.com/XOsX.gif" align="right" width="100">
 
 <p align="justify">Olá, meu nome é Julio, tenho 19 anos e atualmente estou cursando o 5° semestre de Engenharia da Computação. Busco por oportunidades desafiadoras para aplicar minhas habilidades e crescer no mercado profissional.</p>
 
@@ -47,7 +44,7 @@ Sou apaixonado por tecnologia e tenho como objetivo me tornar um desenvolvedor s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="50"/>
 </div>
 
-### Stats
+## Stats
 <div align="center">
   <a href="https://github.com/JulioManoel">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulioManoel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -55,7 +52,7 @@ Sou apaixonado por tecnologia e tenho como objetivo me tornar um desenvolvedor s
 </div>
   
 ### Contacts
-<img src="https://media.tenor.com/d0GeOMz6_HwAAAAC/pikachu.gif" align="right" width="100">
+<img src="https://i.pinimg.com/originals/66/89/dc/6689dc331be27e66349ce9a4d15ddff3.gif" align="right" width="100">
 <div>
   <a href = "mailto:juliobonow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-manoel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
