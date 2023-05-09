@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Julio Manoel</h1>
 
 ## About me
-<img src="./XOsX.gif" align="right" width="100">
+<img src="./pato.gif" align="right" width="100">
 
 <p align="justify">Olá, meu nome é Julio, tenho 19 anos e atualmente estou cursando o 5° semestre de Engenharia da Computação. Busco por oportunidades desafiadoras para aplicar minhas habilidades e crescer no mercado profissional.</p>
 
