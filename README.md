@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Julio Manoel</h1>
+<h1 align="center">Hello! I am Julio Manoel</h1>
 
 <div align="center">
   <!-- <a href="#"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> -->
