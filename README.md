@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name is Julio Manoel</h1>
+<h1 align="center">Hello! I am Julio Manoel</h1>
 
 ## About me
 <img src="./pato.gif" align="right" width="100">
