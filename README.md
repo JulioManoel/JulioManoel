@@ -53,9 +53,8 @@ I am passionate about technology and my goal is to become a senior developer. Cu
 </div>
 
 ## Stats
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/JulioManoel">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulioManoel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioManoel&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+</div>
