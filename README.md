@@ -8,7 +8,7 @@
 </div>
 
 ## About me
-<img src="./pato.gif" align="right" width="100">
+<img src="./assets/pato.gif" align="right" width="100">
 
 <p align="justify">Hello, my name is Julio, I'm 19 years old and I'm currently studying the 5th semester of Computer Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
 
@@ -43,7 +43,7 @@ I am passionate about technology and my goal is to become a senior developer. Cu
 </div>
 
 ## Tools
-<img src="./pikachu.gif" align="right" width="100">
+<img src="./assets/pikachu.gif" align="right" width="100">
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="50"/>
