@@ -8,7 +8,7 @@
 </div>
 
 ## About me
-<iframe width="560" height="315" src="./assets/oi.mp4" frameborder="0" allowfullscreen />
+<iframe width="560" height="315" src="./assets/oi.mp4" frameborder="0" allowfullscreen></iframe>
 
 <img src="./assets/pato.gif" align="right" width="100">
 
