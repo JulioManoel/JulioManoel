@@ -8,7 +8,11 @@
 </div>
 
 ## About me
-<iframe width="560" height="315" src="./assets/oi.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="./assets/oi.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 
 <img src="./assets/pato.gif" align="right" width="100">
 
