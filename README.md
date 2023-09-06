@@ -9,6 +9,10 @@
 
 ## About me
 
+
+https://github.com/JulioManoel/JulioManoel/assets/84098213/f09abe40-2d69-45f8-a7c1-d177a5d48951
+
+
 <img src="./assets/pato.gif" align="right" width="100">
 
 <p align="justify">Hello, my name is Julio, I'm 19 years old and I'm currently studying the 5th semester of Computer Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
