@@ -8,6 +8,8 @@
 </div>
 
 ## About me
+<iframe width="560" height="315" src="./assets/oi.mp4" frameborder="0" allowfullscreen />
+
 <img src="./assets/pato.gif" align="right" width="100">
 
 <p align="justify">Hello, my name is Julio, I'm 19 years old and I'm currently studying the 5th semester of Computer Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
