@@ -26,7 +26,7 @@ I am passionate about technology and my goal is to become a senior developer. Cu
 
 ## Techs and Frameworks
 <div>
-  <img style="fill:#FF2D20" src="https://simpleicons.org/icons/laravel.svg" height="40" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="50"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="50" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" width="50"/>
