@@ -11,7 +11,7 @@
 
 <img src="./assets/pato.gif" align="right" width="100">
 
-<p align="justify">Hello, my name is Julio, I'm 19 years old and I'm currently studying the 5th semester of Computer Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
+<p align="justify">Hello, my name is Julio, I'm 20 years old and I'm currently studying the 6th semester of Computer Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
 
 <p align="justify">
 I am passionate about technology and my goal is to become a senior developer. Currently, I'm improving myself in web development, focusing my efforts on mastering the tools and frameworks of the JavaScript ecosystem, such as Electron, Angular, Node.js, Three.js, among others. However, as a developer, I understand that it is essential to know how to solve problems in the best possible way, regardless of technology.</p>
